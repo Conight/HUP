@@ -4,7 +4,7 @@ Original Fair Launch Date on PancakeSwap was April 20.
 
 It has now been delayed to April 25, 2021 12:01 Eastern Time (America), in order to:
 
-• Mainnet the Smart Contract (Update: LIVE NOW. See contract addres and BSCSca link below)
+• Mainnet the Smart Contract (Update: LIVE NOW. See contract addres and BSCScan link below)
 
 • Officially sign a Chief Compliance Officer for HUP.LIFE (yay, a new team member!)
 
