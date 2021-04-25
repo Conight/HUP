@@ -4,7 +4,7 @@ PLEASE READ THIS UPDATE:
 Please note that the anticipated dates of our roadmap milestones have now changed.
 
 •In consultation with our marketing agency and after consulting with the community,   Fair Launch Date has now been delayed to June 15, 2021 12:01 Eastern Time (America). We have decided to delay the token launch for 45 days so that we can run a comprehensive, full-fledged marketing campaign and build our community prior to token launch.
-• The smart contract has been live on the Mainnet as of April 20, 2021 (Update: LIVE NOW. Click here to view on BSCScan)
+• The smart contract has been live on the Mainnet as of April 20, 2021 (Update: LIVE NOW. Click [here](https://bscscan.com/token/0xb27e2b29Aa406749Ddeb0741BA189751f83701c0) to view on BSCScan)
 • In the coming days we will announce our Chief Compliance Officer and official marketing agency.
 
 The token address is 0xb27e2b29Aa406749Ddeb0741BA189751f83701c0.
